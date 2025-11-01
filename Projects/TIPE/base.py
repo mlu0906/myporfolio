@@ -227,4 +227,5 @@ if __name__ == "__main__":
     creer_et_remplir_tables(d)
     #list_ingred(d)
     #buildPMI(d)
+
     #count_cooccurrences(d)
